@@ -64,14 +64,6 @@ Shri Chimanbhai Patel Institute of Computer Applications
 
 ---
 
-📊 GitHub Stats
-
-"Karan's GitHub stats" (https://github-readme-stats.vercel.app/api?username=Karanpatel25&show_icons=true&theme=default)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Karanpatel25&layout=compact&theme=default)
-
----
-
 🏆 Achievements
 
 - Power BI Certificate
