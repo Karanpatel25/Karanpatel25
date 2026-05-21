@@ -16,7 +16,7 @@ Shri Chimanbhai Patel Institute of Computer Applications
 
 - Bachelor of Computer Applications (BCA) — Completed
 - Integrated Master of Computer Applications (IMCA) — Pursuing
-- CGPA: 7.35 / 10
+- CGPA: 7.57 / 10
 
 ---
 
